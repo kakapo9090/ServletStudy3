@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+#title{
+	font-size: xx-large;
+	font-weight: bolder;
+	text-align: center;
+	text-shadow: blue;
+	color: green;
+	padding: 50px;
+}	
+.tb1{
+	margin: auto;
+	border: black 5px solid;
+	border-spacing: 0px;
+	width: 50%;
+	border-collapse: collapse;
+	background-color: #E4F7BA;
+}
+.cap1{
+	color: navy;
+	background-color: skyblue;
+	border: 2px green solid;
+	font-size: large;
+	
+}
+thead{
+	text-align: center;
+}
+.t1{
+	text-align: center;
+	background-color: silver;
+	font-size: large;
+	font-stretch: wider;
+	font-weight: bold;
+}
+tbody{
+	text-align: left;
+}
+.num{
+	text-align: center;
+	color: blue;
+	font-size: large;
+}
+.price{
+	text-align: right;
+}
+td{
+	border: 1px black dotted;
+	border-spacing: 50px;
+	height: 50px;
+	padding: 10px;
+}

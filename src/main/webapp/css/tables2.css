@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+#title{
+	font-size: xx-large;
+	font-weight: bolder;
+	font-style: oblique;
+	color: red;
+	padding: 1px;
+	text-align: center;
+}
+
+.tb1{
+	margin:auto;
+	background-color: black;
+	font-size: large;
+	font-weight: bold;
+	border: 5px black solid;
+	background-image: url("../images/aaa.jpg");
+	background-repeat: repeat-x;
+	width: 100%;
+	border-spacing: 30px;
+}
+.th1{
+	text-align: center;
+}
+.t1{
+	background-color: orange;
+	padding: 15px;
+	text-decoration: underline;
+}
+.tbody{
+	background-color: skyblue;
+	text-align: center;
+}
+td{
+	padding: 10px;
+	border: 1px lime solid;
+	background-clip: content-box;
+}
+
